@@ -1,55 +1,42 @@
-# 👋 Hi, I'm Guru Prasad G!
+# 👋 Hey there, I'm Guru Prasad G
 
-Welcome to my GitHub profile! I'm a passionate BCA student from Shree Medha Degree College with a strong interest in full-stack web development. I love building responsive, user-friendly applications using modern technologies like **React**, **Tailwind CSS**, and **Node.js**. I'm constantly learning and exploring new tools to improve my skills and create meaningful projects.
-
----
-
-## 🔧 Tech Stack
-
-- **Languages**: JavaScript, C  
-- **Frontend**: React, HTML5, CSS3, Tailwind CSS  
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB  
-- **Tools**: Git, Docker, VS Code
+🎓 BCA Student | 💻 Full-Stack Web Developer | 🌐 Tech Enthusiast  
+I enjoy building clean, responsive apps with modern tools like React, Tailwind, and Node.js.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 [Edusity](https://school-ten-taupe.vercel.app/)
-A responsive school website built with React. It includes a dynamic hero section, program overviews, testimonial sliders, and a contact section for seamless interaction.
-
-### 🔹 [Dev Finder](https://guruprasad403.github.io/Github/)
-Search and display GitHub user profiles using the GitHub API. Shows user info like name, bio, repos, and follower count — built with React.
-
-### 🔹 [Snap & Shift](https://guruprasad403.github.io/imagePopUpOnMouseOver/)
-An interactive image hover effect using HTML, CSS, and JS. Great for use in e-commerce or portfolio galleries.
-
-> 🔧 More projects coming soon! Stay tuned...
+- 🔗 [**Edusity**](https://school-ten-taupe.vercel.app/) – React school website with hero, about, testimonials & contact  
+- 🔍 [**Dev Finder**](https://guruprasad403.github.io/Github/) – GitHub user search with bio, repos & stats  
+- 🖼️ [**Snap & Shift**](https://guruprasad403.github.io/imagePopUpOnMouseOver/) – Hover-based image preview (HTML/CSS/JS)
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Tech Stack
 
-**Backend Operator – Trendypaper, Bellary**  
-*June 2023 – April 2024*  
-- Managed product listings and order fulfillment  
-- Collaborated across teams to improve backend workflows
-
-**Customer Care Executive – Conneqt Business Solutions, Bellary**  
-*June 2024 – Present*  
-- Delivered efficient customer support  
-- Assisted in sales and demonstrated strong communication
+- 💡 **Languages**: JavaScript, C  
+- 🌐 **Frontend**: React, HTML, CSS, Tailwind  
+- 🔧 **Backend**: Node.js, Express  
+- 🗄️ **Database**: MongoDB  
+- ⚙️ **Tools**: Git, Docker, VS Code
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Experience
 
-- 📧 Email: [guruprasas27@gmail.com](mailto:guruprasas27@gmail.com)  
-- 💼 LinkedIn: [Guru Prasad G](https://www.linkedin.com/in/g-guru-prasad-766025254/)  
-- 💻 GitHub: [@GuruPrasad403](https://github.com/GuruPrasad403)  
-- 📷 Instagram: [@Chandu_7.g](https://www.instagram.com/Chandu_7.g)
+- 📦 **Backend Operator**, Trendypaper (2023–24)  
+- 🎧 **Customer Care Executive**, Conneqt (2024–Present)
 
 ---
 
-_Thanks for stopping by! I'm always open to learning, building, and collaborating. Let's create something awesome together!_
+## 📫 Connect with Me
+
+- 📧 [Email](mailto:guruprasas27@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/g-guru-prasad-766025254/)  
+- 💻 [GitHub](https://github.com/GuruPrasad403)  
+- 📷 [Instagram](https://www.instagram.com/Chandu_7.g)
+
+---
+
+_Thanks for visiting! Let’s collaborate and build something great together 🌟_
